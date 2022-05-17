@@ -1,12 +1,15 @@
-# reddit-user-monitor
-A reddit extension that shows each users most posted in subreddits next to their name.
+# Reddit User Monitor
+A chrome extensiont for reddit that shows each users most posted in subreddits next to their name.
 
 # Installation (Chrome)
-Download zip or pull repo.
+Download zip or pull repo
 
-Navigate to the extensions page (chrome://extensions/),
-Enable 'Developer Mode' in the top right.
-Select 'Load unpacked' option.
+Navigate to the extensions page (chrome://extensions/)
+
+Enable 'Developer Mode' in the top right
+
+Select 'Load unpacked' option
+
 Choose the chrome folder (containing manifest.json)
 
 # Settings
